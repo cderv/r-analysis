@@ -1,8 +1,2 @@
-# ignore everything
-*
-
-# but don't ignore files ending with slash = directories
-!*/
-
-# don't ignore specific files
-!_quarto.yml
+# Ignore any .gitkeep file
+**/.gitkeep
